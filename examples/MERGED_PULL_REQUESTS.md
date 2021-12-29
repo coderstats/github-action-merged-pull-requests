@@ -2,8 +2,8 @@
 | :-- | :-- | --: | --: |
 | [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 10094 |
 | [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 541 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217607 |
-| [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 57501 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217610 |
+| [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 57502 |
 | [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 22029 |
 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 14777 |
 | [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) | TypeScript | 2 | 9571 |
