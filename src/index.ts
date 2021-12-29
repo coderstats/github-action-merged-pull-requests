@@ -1,16 +1,15 @@
-import * as dotenv from 'dotenv'
+import * as core from '@actions/core'
 import { promises as fs } from 'fs'
 import { GraphQLClient } from 'graphql-request'
 import { query } from './query'
 
 
-dotenv.config()
 run()
 
 
 async function run(): Promise<void> {
-    const token = process.env.token
-    const output = process.env.output
+    const token = core.getInput('token')
+    const output = core.getInput('output')
 
     const endpoint = 'https://api.github.com/graphql'
     const client = new GraphQLClient(endpoint, {
