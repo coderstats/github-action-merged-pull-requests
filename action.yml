@@ -1,0 +1,16 @@
+name: 'GitHub Merged Pull Requests'
+description: 'Showcase your merged pull requests on GitHub'
+inputs:
+  token:
+    description: 'Personal access token with `read:user` scope'
+    required: true
+  output:
+    description: 'Path to generated file'
+    required: true
+    default: './MERGED_PULL_REQUESTS.md'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
+branding:
+  icon: 'code'
+  color: 'blue'

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "exactOptionalPropertyTypes": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "target": "es2017",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+  },
+  "include": ["src/**/*.ts"],
+}
