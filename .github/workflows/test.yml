@@ -22,6 +22,7 @@ jobs:
       - uses: ./
         with:
           token: ${{ secrets.USER_TOKEN }}
+          output: ./examples/MERGED_PULL_REQUESTS.md
       - name: Check Status
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
