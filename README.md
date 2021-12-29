@@ -21,4 +21,4 @@ Check out the [example table](./examples/MERGED_PULL_REQUESTS.md) to see what th
 
 ## TODO
 
-* Paginate through the GitHub API results up to a limit that can be set in the workflow, pull requests welcome :wink:.
+* Paginate through the GitHub API results up to a limit that can be set in the workflow, pull requests welcome :wink:, see https://graphql.org/learn/pagination/
