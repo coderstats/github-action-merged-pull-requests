@@ -15,5 +15,6 @@ export const query = `query mergedPullRequests {
         mergedAt
       }
     }
+    login
   }
 }`

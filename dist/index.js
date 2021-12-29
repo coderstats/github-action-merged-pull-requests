@@ -13457,6 +13457,7 @@ var query = `query mergedPullRequests {
         mergedAt
       }
     }
+    login
   }
 }`;
 
