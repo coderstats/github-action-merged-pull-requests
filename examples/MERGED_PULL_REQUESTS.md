@@ -2,7 +2,7 @@
 | :-- | :-- | --: | --: |
 | [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 10094 |
 | [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 541 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217603 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217607 |
 | [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 57501 |
 | [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 22029 |
 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 14777 |
@@ -18,7 +18,7 @@
 | [medialize/URI.js](https://github.com/medialize/URI.js) | JavaScript | 1 | 6123 |
 | [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) | Python | 1 | 5764 |
 | [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | Jupyter Notebook | 1 | 5173 |
-| [gboeing/osmnx](https://github.com/gboeing/osmnx) | Python | 1 | 3369 |
+| [gboeing/osmnx](https://github.com/gboeing/osmnx) | Python | 1 | 3370 |
 | [geopandas/geopandas](https://github.com/geopandas/geopandas) | Python | 1 | 2927 |
 | [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis) |  | 1 | 2596 |
 | [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) | JavaScript | 1 | 2426 |
