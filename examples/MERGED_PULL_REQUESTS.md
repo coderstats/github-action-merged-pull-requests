@@ -16,7 +16,7 @@
 | [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) | Jupyter Notebook | 1 | 11279 |
 | [pennersr/django-allauth](https://github.com/pennersr/django-allauth) | Python | 1 | 6917 |
 | [medialize/URI.js](https://github.com/medialize/URI.js) | JavaScript | 1 | 6123 |
-| [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) | Python | 1 | 5764 |
+| [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) | Python | 1 | 5765 |
 | [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) | Jupyter Notebook | 1 | 5173 |
 | [gboeing/osmnx](https://github.com/gboeing/osmnx) | Python | 1 | 3370 |
 | [geopandas/geopandas](https://github.com/geopandas/geopandas) | Python | 1 | 2927 |
