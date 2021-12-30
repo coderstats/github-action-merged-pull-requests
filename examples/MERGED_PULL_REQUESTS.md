@@ -2,14 +2,14 @@
 | :-- | :-- | --: | --: |
 | [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 10094 |
 | [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 541 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217611 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217615 |
 | [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 57502 |
 | [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 22030 |
 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 14777 |
 | [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) | TypeScript | 2 | 9571 |
 | [bevry/staticsitegenerators-list](https://github.com/bevry/staticsitegenerators-list) | TypeScript | 2 | 203 |
 | [rdegges/python-amazonify](https://github.com/rdegges/python-amazonify) | Python | 2 | 84 |
-| [jgthms/bulma](https://github.com/jgthms/bulma) | CSS | 1 | 44838 |
+| [jgthms/bulma](https://github.com/jgthms/bulma) | CSS | 1 | 44839 |
 | [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) | Python | 1 | 27822 |
 | [ipython/ipython](https://github.com/ipython/ipython) | Python | 1 | 15120 |
 | [bower/bower](https://github.com/bower/bower) | JavaScript | 1 | 15093 |
