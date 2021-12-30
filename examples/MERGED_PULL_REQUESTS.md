@@ -2,7 +2,7 @@
 | :-- | :-- | --: | --: |
 | [networkx/networkx](https://github.com/networkx/networkx) | Python | 3 | 10094 |
 | [michaelhelmick/lassie](https://github.com/michaelhelmick/lassie) | HTML | 3 | 541 |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217615 |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |  | 2 | 217617 |
 | [pallets/flask](https://github.com/pallets/flask) | Python | 2 | 57502 |
 | [explosion/spaCy](https://github.com/explosion/spaCy) | Python | 2 | 22030 |
 | [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) | Python | 2 | 14777 |
