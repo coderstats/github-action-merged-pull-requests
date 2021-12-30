@@ -18,12 +18,8 @@ async function run(): Promise<void> {
         }
     })
 
-    const data = await client.request(query)
-    // await fs.writeFile('data/merged-pull-requests.json', JSON.stringify(data))
-    // const result = await fs.readFile('./data/merged-pull-requests.json', { encoding: 'utf8' })
-    // const data = JSON.parse(result)
-
     let repos = new Map()
+    const data = await client.request(query)
     data.viewer.pullRequests.nodes.forEach((node: any) => {
         const repo = node.repository.nameWithOwner
         if (repos.has(repo)) {
@@ -40,7 +36,7 @@ async function run(): Promise<void> {
         if (diff !== 0) {
             return diff
         }
-        return b[1].starCount - a[1].starCount;
+        return b[1].starCount - a[1].starCount
     }))
 
     // Create Markdown table
