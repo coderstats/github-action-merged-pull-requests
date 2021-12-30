@@ -2,6 +2,8 @@
 
 Showcase your merged pull requests on GitHub. You can use this action in your profile repository to show which projects from other users and organizations you have contributed to. At this time your last 100 merged pull requests are retrieved.
 
+![Preview](https://repository-images.githubusercontent.com/442898825/75fc9e22-97ce-4d60-adca-b9f68c384b25)
+
 ## Action Inputs
 
 ### `token` (*required*)

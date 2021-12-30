@@ -1,6 +1,7 @@
 # Project
 .env
 data/
+preview/
 
 # Logs
 logs
