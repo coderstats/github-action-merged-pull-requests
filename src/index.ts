@@ -30,13 +30,15 @@ async function run(): Promise<void> {
         }
     })
 
-    // Sort by prCount and then by starCount
+    // Sort descending by prCount, then by starCount and finally ascending by repo owner with name
     let sortedRepos = new Map([...repos.entries()].sort((a, b) => {
-        const diff = b[1].prCount - a[1].prCount
-        if (diff !== 0) {
-            return diff
-        }
-        return b[1].starCount - a[1].starCount
+        let diff: any = b[1].prCount - a[1].prCount
+        if (diff !== 0) return diff
+
+        diff = b[1].starCount - a[1].starCount
+        if (diff !== 0) return diff
+
+        return a[0].starCount - b[0].starCount
     }))
 
     // Create Markdown table
