@@ -1,10 +1,11 @@
 {
   "name": "github-action-merged-pull-requests",
-  "version": "0.0.1",
-  "description": "Showcase your merged pull requests on GitHub.",
+  "version": "1.0.0",
+  "description": "A GitHub action to showcase your merged pull requests on GitHub.",
   "main": "src/index.ts",
   "scripts": {
     "build": "esbuild src/index.ts --bundle --platform=node --outfile=dist/index.js",
+    "release": "release-it",
     "watch": "npm run build -- --watch"
   },
   "keywords": [
@@ -23,6 +24,7 @@
   "devDependencies": {
     "@types/node": "^17.0.5",
     "esbuild": "^0.14.8",
+    "release-it": "^14.11.8",
     "typescript": "^4.5.4"
   },
   "dependencies": {
